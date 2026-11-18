@@ -199,6 +199,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Elite Dangerous · Updated 2026-11-17 · Shared under the MIT License*
+*Elite Dangerous · Updated 2026-11-18 · Shared under the MIT License*
 
-<!-- updated 2026-11-17 -->
+<!-- updated 2026-11-18 -->
